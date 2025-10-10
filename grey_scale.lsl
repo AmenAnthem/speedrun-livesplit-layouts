@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>3355</X>
-  <Y>432</Y>
+  <X>3363</X>
+  <Y>181</Y>
   <VerticalWidth>480</VerticalWidth>
-  <VerticalHeight>644</VerticalHeight>
+  <VerticalHeight>850</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -13,7 +13,7 @@
     <BackgroundColor2>00000000</BackgroundColor2>
     <ThinSeparatorsColor>03FFFFFF</ThinSeparatorsColor>
     <SeparatorsColor>24FFFFFF</SeparatorsColor>
-    <PersonalBestColor>FF16A6FF</PersonalBestColor>
+    <PersonalBestColor>FFB446C8</PersonalBestColor>
     <AheadGainingTimeColor>FF00CC36</AheadGainingTimeColor>
     <AheadLosingTimeColor>FF52CC73</AheadLosingTimeColor>
     <BehindGainingTimeColor>FFCC5C52</BehindGainingTimeColor>
@@ -79,8 +79,8 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF252525</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF808080</CurrentSplitBottomColor>
-        <VisualSplitCount>6</VisualSplitCount>
-        <SplitPreviewCount>1</SplitPreviewCount>
+        <VisualSplitCount>10</VisualSplitCount>
+        <SplitPreviewCount>3</SplitPreviewCount>
         <DisplayIcons>False</DisplayIcons>
         <ShowThinSeparators>False</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
@@ -174,6 +174,7 @@
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
         <Accuracy>Hundredths</Accuracy>
+        <DropDecimals>False</DropDecimals>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
@@ -228,16 +229,11 @@
       </Settings>
     </Component>
     <Component>
-      <Path>LiveSplit.ScriptableAutoSplit.dll</Path>
+      <Path>LiveSplit.TheRun.dll</Path>
       <Settings>
-        <Version>1.5</Version>
-        <ScriptPath>D:\Users\User\Documents\Speedrunning\hades.asl</ScriptPath>
-        <Start>False</Start>
-        <Reset>False</Reset>
-        <Split>False</Split>
-        <CustomSettings>
-          <Setting id="debug" type="bool">False</Setting>
-        </CustomSettings>
+        <Version>1.0.0</Version>
+        <IsStatsUploadingEnabled>True</IsStatsUploadingEnabled>
+        <IsLiveTrackingEnabled>True</IsLiveTrackingEnabled>
       </Settings>
     </Component>
   </Components>
