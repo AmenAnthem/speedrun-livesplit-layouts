@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>3250</X>
-  <Y>181</Y>
-  <VerticalWidth>590</VerticalWidth>
-  <VerticalHeight>850</VerticalHeight>
+  <X>6499</X>
+  <Y>362</Y>
+  <VerticalWidth>1180</VerticalWidth>
+  <VerticalHeight>1700</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -123,7 +123,7 @@
           <Settings>
             <Version>1.5</Version>
             <Name>Segment</Name>
-            <Type>SegmentTime</Type>
+            <Type>SegmentDeltaorSegmentTime</Type>
             <Comparison>Current Comparison</Comparison>
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
@@ -214,7 +214,7 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>69</TimerHeight>
+        <TimerHeight>111</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
