@@ -66,7 +66,7 @@
       <Path>LiveSplit.BlankSpace.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <SpaceHeight>23</SpaceHeight>
+        <SpaceHeight>50</SpaceHeight>
         <SpaceWidth>100</SpaceWidth>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
@@ -141,7 +141,7 @@
       <Path>LiveSplit.BlankSpace.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <SpaceHeight>19</SpaceHeight>
+        <SpaceHeight>46</SpaceHeight>
         <SpaceWidth>100</SpaceWidth>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
@@ -203,7 +203,7 @@
       <Path>LiveSplit.BlankSpace.dll</Path>
       <Settings>
         <Version>1.7</Version>
-        <SpaceHeight>23</SpaceHeight>
+        <SpaceHeight>48</SpaceHeight>
         <SpaceWidth>100</SpaceWidth>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
