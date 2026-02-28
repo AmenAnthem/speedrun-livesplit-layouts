@@ -214,7 +214,7 @@
       <Path>LiveSplit.Timer.dll</Path>
       <Settings>
         <Version>1.5</Version>
-        <TimerHeight>111</TimerHeight>
+        <TimerHeight>150</TimerHeight>
         <TimerWidth>225</TimerWidth>
         <TimerFormat>1.23</TimerFormat>
         <OverrideSplitColors>False</OverrideSplitColors>
